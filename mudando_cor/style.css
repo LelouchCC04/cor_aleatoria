@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+}
+.avisos{
+    border: 1px dashed #55de58;
+    width: 150px;
+    font-size: 0.7em;
+    margin-left: 80%;
+    letter-spacing:0.2em ;
+    color: black;
+}
+#aviso_cor{
+    color: red;
+}
+#cor_titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2em;
+    margin-top: -300px;
+    margin-right: 250px;
+    letter-spacing:0.2em ;
+    padding: 25px;
+}
+#cores{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+    margin-top: 0px;
+    margin-right: 250px;
+    letter-spacing:0.2em ;
+    padding: 25px;
+
+}
+
+.cor_button{
+    margin-left: 80%;
+    padding: 5px 10px;   
+    display: flex;  
+    height: 50px;
+    flex-basis: 20%;
+}
+
+.tema{
+    text-align: center;
+    color: #14be78;
+    
+}
